@@ -3,12 +3,12 @@
     <channel>
         <title>FlowState</title>
         <item>
-            <title>1.1.8</title>
-            <pubDate>Fri, 28 Aug 2026 23:23:21 +0530</pubDate>
-            <sparkle:version>1.1.8</sparkle:version>
-            <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
+            <title>1.1.9</title>
+            <pubDate>Sat, 29 Aug 2026 00:13:06 +0530</pubDate>
+            <sparkle:version>1.1.9</sparkle:version>
+            <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ResurfaceLabs/Flowstate-new/releases/latest/download/FlowState.dmg" length="29039744" type="application/octet-stream" sparkle:edSignature="6liMKvC6eACiPZ0nQonQzZDQVYnX1ZQPO6gg2X1ozGae4Al0tui6h6snSvEr0h8wyd3Mf/lX87v7XXWztek/Bg=="/>
+            <enclosure url="https://github.com/ResurfaceLabs/flowstate-release/releases/latest/download/FlowState.dmg" length="29039736" type="application/octet-stream" sparkle:edSignature="9h1C1r6nFxbLG2ujJXGCcidkDp1mli2E9gQzpEGRIGzL4Z7bIkkIPWxIn+w8l8j7ZdGEKWjVwxdoEdAXNnK2BQ=="/>
         </item>
     </channel>
 </rss>
